@@ -44,6 +44,6 @@ When I’m not coding, I’m usually traveling, learning, or looking for fresh p
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📊 Top Contributed Repos  
-[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=Samya-das06&repo=Leetcode&theme=radical)](https://github.com/Samya-das06/Leetcode)  
-[![Toll App Project](https://github-readme-stats.vercel.app/api/pin/?username=Samya-das06&repo=Toll-App-Project&theme=radical)](https://github.com/Samya-das06/Toll-App-Project)  
-[![Data Science Final Project](https://github-readme-stats.vercel.app/api/pin/?username=Samya-das06&repo=DataScienceFinalProject&theme=radical)](https://github.com/Samya-das06/DataScienceFinalProject)
+[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=Samya-das06&repo=Leetcode&theme=radical&cache_seconds=1800)](https://github.com/Samya-das06/Leetcode)  
+[![Toll App Project](https://github-readme-stats.vercel.app/api/pin/?username=Samya-das06&repo=Toll-App-Project&theme=radical&cache_seconds=1800)](https://github.com/Samya-das06/Toll-App-Project)  
+[![Data Science Final Project](https://github-readme-stats.vercel.app/api/pin/?username=Samya-das06&repo=DataScienceFinalProject&theme=radical&cache_seconds=1800)](https://github.com/Samya-das06/DataScienceFinalProject)
