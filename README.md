@@ -43,10 +43,16 @@ When I’m not coding, I’m usually traveling, learning, or looking for fresh p
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🚀 Top Repos  
+## 🚀 Top Repositories  
 
-- [Leetcode](https://github.com/Samya-das06/Leetcode)  
- 
-- [Toll-App-Project](https://github.com/Samya-das06/Toll-App-Project)  
+### 🔥 [Leetcode](https://github.com/Samya-das06/Leetcode)  
+Practice problems and solutions to sharpen algorithm and data structure skills.
 
-- [DataScienceFinalProject](https://github.com/Samya-das06/DataScienceFinalProject) 
+### 🚧 [Toll-App-Project](https://github.com/Samya-das06/Toll-App-Project)  
+A project focused on building a toll management application with real-time features.
+
+### 📊 [DataScienceFinalProject](https://github.com/Samya-das06/DataScienceFinalProject)  
+Final project showcasing data analysis, visualization, and machine learning models.
+
+### 🤖 [AI Code Reviewer](https://github.com/Samya-das06/AI_Code_Reviewer)  
+An AI-powered tool designed to automatically review and improve code quality.
