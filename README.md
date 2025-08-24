@@ -51,8 +51,8 @@ Practice problems and solutions to sharpen algorithm and data structure skills.
 ### 🚧 [Toll-App-Project](https://github.com/Samya-das06/Toll-App-Project)  
 A project focused on building a toll management application with real-time features.
 
-### 📊 [DataScienceFinalProject](https://github.com/Samya-das06/DataScienceFinalProject)  
-Final project showcasing data analysis, visualization, and machine learning models.
-
 ### 🤖 [AI Code Reviewer](https://github.com/Samya-das06/AI_Code_Reviewer)  
 An AI-powered tool designed to automatically review and improve code quality.
+
+### 📊 [DataScienceFinalProject](https://github.com/Samya-das06/DataScienceFinalProject)  
+Final project showcasing data analysis, visualization, and machine learning models.
