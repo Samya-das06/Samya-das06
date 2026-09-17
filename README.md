@@ -1,6 +1,6 @@
 <h1> Hi🙋‍♂️, I'm Samya Das</h1>
 
-Hi, I am a 4th-year student at KIIT University with interests in systems, AI, and smart infrastructure and a curious learner and passionate about solving problems with code. Currently, I am working on projects around Agentic AI and constantly exploring new technologies to build impactful solutions. I enjoy collaborating on innovative ideas and believe in creating technology that makes a difference. 
+Hi, I am a CSE graduate of KIIT University with interests in systems, AI, and smart infrastructure and a curious learner and passionate about solving problems with code. Currently, I am working on projects around Agentic AI and constantly exploring new technologies to build impactful solutions. I enjoy collaborating on innovative ideas and believe in creating technology that makes a difference. 
 
 Let’s connect and build something amazing!
 
